@@ -15,7 +15,6 @@ export class Data{
        }
 }
 
-
 @Component({
   selector: 'app-userlist',
   templateUrl: './userlist.component.html',
